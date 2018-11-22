@@ -1,9 +1,6 @@
 import tweepy
 
-consumer_key ='6WevwoxioKt6jpg8DehxSXrjh' #api_key
-consumer_secret = 'kh4s1NvI2vaZR4Y4EhlE5648FQ2utgztDDW6wPXhg0uMDVJAyG' #api_secret_key
-access_token = '19152273-pRQTuvslYGqMyLUwI1mpz0RLvfZjFoK39Hdp84hHm'
-access_token_secret = 'p9PqGnORMTjBNHwuUtaTn3V5zhEmUXcurcT1wSTZ74v30'
+
 
 #account_type = 'premium'
 #endpoint = 'https://api.twitter.com/1.1/tweets/search/30day/my_env_name.json'
